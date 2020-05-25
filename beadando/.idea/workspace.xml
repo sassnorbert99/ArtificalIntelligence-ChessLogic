@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2007ee80-36ac-4307-b178-b40c2db58f4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cEV0KIqjrPJvpN86rnQ3V1BA8l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="SakkLogika" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="SakkLogika" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat.Main" />
+      <module name="beadando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feladat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mestint.Main" />
+      <module name="beadando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SakkLogika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feladat.feladat" />
+      <module name="beadando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feladat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="feladat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mestint.feladat" />
+      <module name="beadando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SakkLogika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mestint.main" />
+      <module name="beadando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SakkLogika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.feladat (1)" />
+        <item itemvalue="Application.feladat" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2007ee80-36ac-4307-b178-b40c2db58f4e" name="Default Changelist" comment="" />
+      <created>1590093515181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590093515181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="100" key="#com.intellij.ide.util.MemberChooser" timestamp="1590267182975">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="453" y="100" key="#com.intellij.ide.util.MemberChooser/0.23.1280.709@0.23.1280.709" timestamp="1590267182975" />
+    <state x="378" y="160" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590264191555">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="378" y="160" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.709@0.23.1280.709" timestamp="1590264191555" />
+    <state x="414" y="244" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590264196506">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="414" y="244" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.709@0.23.1280.709" timestamp="1590264196506" />
+    <state x="378" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590263891966">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="378" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.709@0.23.1280.709" timestamp="1590263891966" />
+    <state x="403" y="88" key="#xdebugger.evaluate" timestamp="1590319145424">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="403" y="88" key="#xdebugger.evaluate/0.23.1280.709@0.23.1280.709" timestamp="1590319145424" />
+    <state width="465" height="466" key="DebuggerActiveHint" timestamp="1590320541982">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="465" height="466" key="DebuggerActiveHint/0.23.1280.709@0.23.1280.709" timestamp="1590320541982" />
+    <state x="100" y="123" width="1080" height="509" key="DiffContextDialog" timestamp="1590403330801">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="100" y="123" width="1080" height="509" key="DiffContextDialog/0.23.1280.709@0.23.1280.709" timestamp="1590403330801" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom" timestamp="1590406001370">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1590406001370" />
+    <state width="1238" height="175" key="GridCell.Tab.0.bottom/0.23.1280.710@0.23.1280.710" timestamp="1590095402277" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center" timestamp="1590406001369">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1590406001369" />
+    <state width="1238" height="175" key="GridCell.Tab.0.center/0.23.1280.710@0.23.1280.710" timestamp="1590095402276" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left" timestamp="1590406001369">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1590406001369" />
+    <state width="1238" height="175" key="GridCell.Tab.0.left/0.23.1280.710@0.23.1280.710" timestamp="1590095402275" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right" timestamp="1590406001370">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1590406001370" />
+    <state width="1238" height="175" key="GridCell.Tab.0.right/0.23.1280.710@0.23.1280.710" timestamp="1590095402277" />
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom" timestamp="1590404893605">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.bottom/0.23.1280.709@0.23.1280.709" timestamp="1590404893605" />
+    <state width="1238" height="218" key="GridCell.Tab.1.center" timestamp="1590404893604">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.center/0.23.1280.709@0.23.1280.709" timestamp="1590404893604" />
+    <state width="1238" height="218" key="GridCell.Tab.1.left" timestamp="1590404893604">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.left/0.23.1280.709@0.23.1280.709" timestamp="1590404893604" />
+    <state width="1238" height="218" key="GridCell.Tab.1.right" timestamp="1590404893604">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1238" height="218" key="GridCell.Tab.1.right/0.23.1280.709@0.23.1280.709" timestamp="1590404893604" />
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor" timestamp="1590311577145">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="149" y="23" width="982" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1590311577145" />
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1590405592251">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="319" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1590405592251" />
+  </component>
+</project>
